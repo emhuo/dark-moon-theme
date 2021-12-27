@@ -1,0 +1,17 @@
+{
+  "name": "dark-moon-theme",
+  "displayName": "Dark Moon Theme",
+  "description": "A dark theme with accessibility improvements for Aseprite.",
+  "version": "1.0",
+  "author": { "name": "Emily", "email": "mlyhuo@gmail.com", "url": "https://emhuo.com/" },
+  "contributors": [],
+  "publisher": "Emily",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "dark-moon-theme", "path": "." }
+    ]
+  }
+}
