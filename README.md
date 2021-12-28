@@ -46,4 +46,4 @@
 
 #### Fonts Included:
 
-![Font Preview](https://github.com/emhuo/dark-moon-theme/blob/main/img/font-preview?raw=true)
+![Dark Moon Aseprite Icon](https://github.com/emhuo/dark-moon-theme/blob/main/img/font-preview.png?raw=true)
