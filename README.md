@@ -13,8 +13,7 @@
 <p>
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-install">How To Install</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a>
+  <a href="#credits">Credits</a>
 </p>
 
 <br>
@@ -26,10 +25,12 @@
 
 ## Key Features
 
+* Compatible with Aseprite v1.3 and v1.2.30
 * Includes 11 free font styles for customization
 * Default font uses bold weight for better readability
 * All editor and text color combinations meet WCAG AA contrast standards
-* Compatible with Aseprite v1.3 and v1.2.30
+
+![WCAG Contrast Ratio](https://github.com/emhuo/dark-moon-theme/blob/main/img/contrast-ratios.png?raw=true)
 
 ## How To Install
 
@@ -46,4 +47,4 @@
 
 #### Fonts Included:
 
-![Dark Moon Aseprite Icon](https://github.com/emhuo/dark-moon-theme/blob/main/img/font-preview.png?raw=true)
+![Font Preview](https://github.com/emhuo/dark-moon-theme/blob/main/img/updated-preview.png?raw=true)
