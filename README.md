@@ -13,10 +13,8 @@
 <p>
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-install">How To Install</a> •
-  <a href="#roadmap">Roadmap</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#related">Related</a>
 </p>
 
 <br>
@@ -38,3 +36,10 @@
 * Install CerebellumBold in the fonts folder first.
 * After installing font, open the extension in the theme folder to automatically install package.
 * To manually install after customization, compress the root folder and replace '.zip' with '.aseprite-extension'
+
+## Credits
+
+* Based on the default theme included with Aseprite by David Capello and Ilija Melentijevic.
+  - License: <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+* All fonts were created by me and are free to use for any kind of project without credit, under the terms of Open Font License 1.0.
+  - License: <a href="https://opensource.org/licenses/OFL-1.1">OFL 1.0</a>
