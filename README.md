@@ -26,7 +26,7 @@
 
 ## Key Features
 
-* Includes 16 free font styles for customization
+* Includes 11 free font styles for customization
 * Default font uses bold weight for better readability
 * All editor and text color combinations meet WCAG AA contrast standards
 * Compatible with Aseprite v1.3 and v1.2.30
@@ -43,3 +43,7 @@
   - License: <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 * All fonts were created by me and are free to use for any kind of project without credit, under the terms of Open Font License 1.0.
   - License: <a href="https://opensource.org/licenses/OFL-1.1">OFL 1.0</a>
+
+#### Fonts Included:
+
+![Font Preview](https://github.com/emhuo/dark-moon-theme/blob/main/img/font-preview?raw=true)
