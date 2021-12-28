@@ -30,63 +30,29 @@
         <dim id="color_selector_bar_size" value="8" />
     </dimensions>
     <colors>
-        <!-- ====== DEBUG COLORS ====== -->
-        <!-- #26FF49 -->
-        <!-- ====== CORE COLORS ====== -->
-        <!--
-          - BG_TITLE_BAR: #273854
-          - BG_PAGE_SURFACE: #90A3C1 - 4.51:1 Contrast Ratio with #082A9B; Old: #8393ae
-          - BG_TAB_PRIMARY: #586d93 - 4.6:1 Contrast Ratio with #adfffe
-          - BG_MAIN_CONTENT: #26334b - 8.38:1 Contrast Ratio with #b8d4ff
-          - BG_TOOLTIP: #b30000
-          - TEXT_H1: #ffebb6
-          - TEXT_H2: #082A9B
-          - TEXT_PRIMARY: #ffffff
-          - TEXT_SECONDARY: #b8d4ff
-          - TEXT_HIGHLIGHT: #b5c5ff
-          - TEXT_LINK_DEFAULT: #adfffe
-          - TEXT_LINK_HOVER: #24f2dc
-        -->
         <color id="black" value="#000000" />
-        <!-- ====== KEY SURFACES ====== -->
-        <!-- sprite editor window background 2b3e5d-->
         <color id="editor_face" value="#2b3e5d" />
-        <!-- base page/modal background -->
         <color id="window_face" value="#26334b" />]
-        <!--2b3d5b-->
-        <!-- file menu bar & hamburger menu selections; match BASE -->
         <color id="menuitem_normal_face" value="#26334b" />
-        <!-- title bar (modals only) -->
         <color id="window_titlebar_face" value="#273854" />
         <color id="window_titlebar_text" value="#ffffff" />
-        <!-- active window and side panels -->
         <color id="workspace" value="#404e72" />
         <color id="tab_active_face" value="#404e72" />
-        <!-- ACTIVE AND INACTIVE TAB TEXT COLORS -->
         <color id="tab_active_text" value="#ffffff" />
         <color id="tab_normal_text" value="#000000" />
-        <!-- status bar (bottom of page) -->
         <color id="status_bar_face" value="#404e72" />
         <color id="status_bar_text" value="#b8d4ff" />
-        <!-- HOME SCREEN PANES AND MENU BACKGROUND -->
         <color id="background" value="#2b3d5b" />
-        <!--26334b-->
         <color id="text" value="#ffffff" />
         <color id="disabled" value="#b8d4ff" />
-        <!-- e.g. px in brush size and % in zoom  -->
         <color id="entry_suffix" value="#ffefc2" />
-        <!-- button text -->
         <color id="button_normal_text" value="#000000" />
         <color id="button_hot_text" value="#b5c5ff" />
         <color id="button_selected_text" value="#ffffff" />
-        <!-- ====== HOME PAGE ====== -->
-        <!-- home page section headings -->
         <color id="workspace_text" value="#ffefc2" />
-        <!-- text highlight color on hover -->
         <color id="menuitem_hot_face" value="#4040DD" />
         <color id="workspace_link" value="#adfffe" />
         <color id="workspace_link_hover" value="#24f2dc" />
-        <!-- ====== OPEN FILE MENU ====== -->
         <color id="filelist_even_row_face" value="#2b3e5d" />
         <color id="filelist_even_row_text" value="#ffffff" />
         <color id="filelist_odd_row_face" value="#2b3e5d" />
@@ -94,54 +60,37 @@
         <color id="filelist_selected_row_face" value="#b5c5ff" />
         <color id="filelist_selected_row_text" value="#000000" />
         <color id="filelist_disabled_row_text" value="#6f7893" />
-        <!-- ====== HAMBURGER MENU ====== -->
         <color id="menuitem_normal_text" value="#ffffff" />
         <color id="menuitem_hot_text" value="#000000" />
         <color id="menuitem_highlight_face" value="#00d8f5" />
         <color id="menuitem_highlight_text" value="#000000" />
-        <!-- ====== PREFERENCES: SIDE NAVBAR ====== -->
-        <!-- match normal face to MAIN background -->
         <color id="listitem_normal_face" value="#26334b" />
         <color id="listitem_normal_text" value="#ffffff" />
         <color id="listitem_selected_face" value="#b5c5ff" />
         <color id="listitem_selected_text" value="#000000" />
-        <!-- ====== PREFERENCES: CONTROLS ====== -->
-        <!-- heading -->
         <color id="separator_label" value="#ffefc2" />
-        <!-- link -->
         <color id="link_text" value="#adfffe" />
         <color id="link_hover" value="#24f2dc" />
-        <!-- dropdowns -->
         <color id="textbox_face" value="#334a71" />
         <color id="textbox_text" value="#ffffff" />
         <color id="selected" value="#b5c5ff" />
         <color id="selected_text" value="#000000" />
         <color id="textbox_code_face" value="#ffc8c8" />
-        <!-- controls -->
         <color id="slider_empty_text" value="#000000" />
         <color id="slider_full_text" value="#ffffff" />
         <color id="check_hot_face" value="#2d3543" />
         <color id="check_focus_face" value="#5065ed" />
         <color id="radio_hot_face" value="#2d3543" />
         <color id="radio_focus_face" value="#5065ed" />
-        <!-- ====== SPRITE EDITOR WINDOW ====== -->
-        <!-- scrollbar corners, match Editor Face -->
         <color id="editor_view_face" value="#2b3e5d" />
-        <!-- border between canvas and background-->
         <color id="editor_sprite_border" value="#0000ff" />
-        <!-- ??? -->
         <color id="editor_sprite_bottom_border" value="#2b3e5d" />
-        <!-- ====== NOTIFICATIONS ====== -->
-        <!-- flags (top right) -->
         <color id="flag_normal" value="#b8d4ff" />
         <color id="flag_active" value="#ffc9c4" />
         <color id="flag_clicked" value="#b30000" />
-        <!-- tooltip -->
         <color id="tooltip_face" value="#b30000" />
-        <!-- ??? -->
         <color id="tooltip_text" value="#000000" />
         <color id="popup_window_border" value="#000000" />
-        <!-- ====== TIMELINE ====== -->
         <color id="timeline_normal" value="#547aa4" />
         <color id="timeline_normal_text" value="#5db1c8" />
         <color id="timeline_hover" value="#547aa4" />
@@ -156,14 +105,10 @@
         <color id="timeline_padding" value="#436485" />
         <color id="timeline_band_highlight" value="#93adbb" />
         <color id="timeline_band_bg" value="#76858e" />
-        <!-- FLAG ICON (top right of home page) -->
-        <!-- SELECT BOX -->
         <color id="select_box_ruler" value="#0000ff" />
         <color id="select_box_grid" value="#64c864" />
-        <!-- ====== PALETTE WINDOW ====== -->
         <color id="edit_pal_face" value="#24f2dc" />
         <color id="palette_entries_separator" value="#000000" />
-        <!-- === APP ICON STATES === -->
         <color id="face" value="#fff0bd" />
         <color id="hot_face" value="#e58f41" />
     </colors>
